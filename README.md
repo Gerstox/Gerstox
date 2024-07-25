@@ -1,6 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Gerson 👋</h1>
 </div>
+
 ## Sobre mi
 
 👨🏻‍💻 I am an informatics engineer with more
